@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/static/v1?label=project%20type&message=SQL&style=for-the-badge)
 ![Build Status](https://img.shields.io/static/v1?label=LANGUAGE&message=PL/SQL&color=importent&style=for-the-badge)
-![Build Status](https://img.shields.io/static/v1?label=PLATFORM%20USED&message=ORACL%2010G&style=for-the-badge)
+![Build Status](https://img.shields.io/static/v1?label=PLATFORM%20USED&message=ORACLE%2010G&style=for-the-badge)
 
 
 # **SHORT DESCRIPTION**
