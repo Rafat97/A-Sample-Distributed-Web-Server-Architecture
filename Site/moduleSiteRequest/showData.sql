@@ -1,0 +1,2 @@
+
+SELECT * FROM SITES_LOG;

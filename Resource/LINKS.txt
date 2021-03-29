@@ -1,0 +1,11 @@
+How to install VMWARE 15.5 pro on Windows (8.1, 10):
+===================================================
+https://www.shaileshjha.com/how-to-install-vmware-workstation-12-pro-on-windows-10/
+
+How to install windows 10 on VMWARE 15.5 pro:
+====================================
+https://techsprobe.com/install-windows-10/
+
+Or, you can search, there are plenty of youtube videos and blogs on google.
+
+lsnrctl stop

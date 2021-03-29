@@ -1,0 +1,13 @@
+-- all the db link
+select * from DBA_DB_LINKS ;
+select * from user_db_links;
+
+
+-- all the view name
+select view_name from dba_views;
+select view_name from all_views
+select view_name from user_views;
+
+
+-- all the tables name
+SELECT owner, table_name FROM dba_tables;
