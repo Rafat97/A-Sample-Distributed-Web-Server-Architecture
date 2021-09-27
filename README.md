@@ -46,8 +46,7 @@ GITHUB PROFILE: https://github.com/Rafat97
 FACEBOOK PROFILE: https://www.facebook.com/Rafat.Haque.
 97/
 
-LINKEDIN PROFILE: https://www.linkedin.com/in/
-rafat-haque-173131139/
+LINKEDIN PROFILE: https://www.linkedin.com/in/rafat-haque-173131139/
 
 TWITTER PROFILE: https://twitter.com/RafatHaque1997
 
